@@ -1,2 +1,6 @@
-# techinet-ansible-series
-Documentation of Ansible series techinet official channel
+# techinet-python-series
+
+
+## Table of Contents
+
+1. [E1 - Ansible Labs (Ngoprek): ](E1/README.md)
