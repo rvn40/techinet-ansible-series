@@ -1,4 +1,4 @@
-# techinet-python-series
+# techinet-ansible-series
 
 
 ## Table of Contents
