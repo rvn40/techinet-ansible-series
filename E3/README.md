@@ -1,4 +1,4 @@
-# Basic example of Ansible usage
+# Ansible Inventory
 
 ## Prerequisite
 - 2 cpu and 2GB RAM
