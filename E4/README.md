@@ -1,4 +1,4 @@
-# Ansible Inventory
+# Ansible Inventory Part 2
 
 ## Prerequisite
 - 2 cpu and 2GB RAM
@@ -9,4 +9,4 @@
 
 For instruction in video format:
 
-[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/AnsibleSeries/E3.png" width="560" height="315">](https://youtu.be/dHf8dtZgg-0)
+[<img src="https://storage.googleapis.com/techinet-public/youtube/thumbnails/AnsibleSeries/E4.png" width="560" height="315">](https://www.youtube.com/embed/-gV2mMtPhX4?si=Oqq1Kit7fW9vslYP)
