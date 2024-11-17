@@ -1,4 +1,4 @@
-# Ansible Inventory
+# Ansible Host Selection
 
 ## Prerequisite
 - 2 cpu and 2GB RAM

@@ -1,4 +1,4 @@
-# Ansible Inventory
+# Ansible Task
 
 ## Prerequisite
 - 2 cpu and 2GB RAM
